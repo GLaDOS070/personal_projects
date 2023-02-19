@@ -9,12 +9,12 @@
 - для парсинга данных использовалась библиотека ```Beautiful Soup```
 - результаты парсинга сохранялись в таблицу, которая загружалась в ```Google Sheets```
 ### Основные библиотеки
-    * selenium
-    * requests
-    * bs4
-    * pandas
-    * gspread
-    * oauth2client
+- ```selenium```
+- ```requests```
+- ```bs4```
+- ```pandas```
+- ```gspread```
+- ```oauth2client```
 
 # Пример результата
-image.png
+
