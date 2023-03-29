@@ -1,2 +1,11 @@
 # personal_projects
- This repository contains my personal projects inspired by random ideas or tasks from work
+ Этот репозиторий содержит мои личные проекты, вдохновленные случайными идеями или рабочими задачами.
+## [**Автоматизация ежедневного мониторинга цен**](https://github.com/GLaDOS070/personal_projects/tree/main/auto_monitoring)
+- написание скрипта для автоматичекой загрузки данных в Google Sheets с обработкой (мини ETL пайплайн) с парсингом курса ЦБ
+- создание дашборда на основе полученных данных
+## [**Парсинг вакансий с hh**](https://github.com/GLaDOS070/personal_projects/tree/main/hh_vacancies_stats)
+- написание скрипта для парсинга вакансий с hh.ru
+- загрузка данных в Google Sheets
+## [**Парсинг лицензий с сайта РКН**](https://github.com/GLaDOS070/personal_projects/tree/main/licenses_rkn_parcer)
+- написание скрипта для парсинга кол-во организаций с действующей лицензией на оказание услуг связи
+- итоговй результат оформить в Excel-файл
