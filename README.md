@@ -6,3 +6,6 @@
 ## [**Парсинг вакансий с hh**](https://github.com/GLaDOS070/personal_projects/tree/main/hh_vacancies_stats)
 - написание скрипта для парсинга вакансий с hh.ru
 - загрузка данных в Google Sheets
+## [**Парсинг лицензий с сайта РКН**](https://github.com/GLaDOS070/personal_projects/tree/main/licenses_rkn_parcer)
+- написание скрипта для парсинга кол-во организаций с действующей лицензией на оказание услуг связи
+- итоговй результат оформить в Excel-файл
